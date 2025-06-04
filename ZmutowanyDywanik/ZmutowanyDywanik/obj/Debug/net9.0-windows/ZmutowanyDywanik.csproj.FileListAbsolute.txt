@@ -1,0 +1,14 @@
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\obj\Debug\net9.0-windows\ZmutowanyDywanik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\obj\Debug\net9.0-windows\ZmutowanyDywanik.AssemblyInfoInputs.cache
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\obj\Debug\net9.0-windows\ZmutowanyDywanik.AssemblyInfo.cs
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\obj\Debug\net9.0-windows\ZmutowanyDywanik.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\bin\Debug\net9.0-windows\ZmutowanyDywanik.exe
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\bin\Debug\net9.0-windows\ZmutowanyDywanik.deps.json
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\bin\Debug\net9.0-windows\ZmutowanyDywanik.runtimeconfig.json
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\bin\Debug\net9.0-windows\ZmutowanyDywanik.dll
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\bin\Debug\net9.0-windows\ZmutowanyDywanik.pdb
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\obj\Debug\net9.0-windows\ZmutowanyDywanik.dll
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\obj\Debug\net9.0-windows\refint\ZmutowanyDywanik.dll
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\obj\Debug\net9.0-windows\ZmutowanyDywanik.pdb
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\obj\Debug\net9.0-windows\ZmutowanyDywanik.genruntimeconfig.cache
+C:\Users\Kuba\RiderProjects\ZmutowanyDywanik\ZmutowanyDywanik\obj\Debug\net9.0-windows\ref\ZmutowanyDywanik.dll
