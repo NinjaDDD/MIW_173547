@@ -1,0 +1,14 @@
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\bin\Debug\net9.0-windows\MIWZadanie3.exe
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\bin\Debug\net9.0-windows\MIWZadanie3.deps.json
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\bin\Debug\net9.0-windows\MIWZadanie3.runtimeconfig.json
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\bin\Debug\net9.0-windows\MIWZadanie3.dll
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\bin\Debug\net9.0-windows\MIWZadanie3.pdb
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\obj\Debug\net9.0-windows\MIWZadanie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\obj\Debug\net9.0-windows\MIWZadanie3.AssemblyInfoInputs.cache
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\obj\Debug\net9.0-windows\MIWZadanie3.AssemblyInfo.cs
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\obj\Debug\net9.0-windows\MIWZadanie3.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\obj\Debug\net9.0-windows\MIWZadanie3.dll
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\obj\Debug\net9.0-windows\refint\MIWZadanie3.dll
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\obj\Debug\net9.0-windows\MIWZadanie3.pdb
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\obj\Debug\net9.0-windows\MIWZadanie3.genruntimeconfig.cache
+C:\Users\Kuba\RiderProjects\MIWZadanie3\MIWZadanie3\obj\Debug\net9.0-windows\ref\MIWZadanie3.dll
