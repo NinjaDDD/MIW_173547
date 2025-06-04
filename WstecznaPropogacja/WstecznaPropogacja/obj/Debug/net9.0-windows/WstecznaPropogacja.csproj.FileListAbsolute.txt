@@ -1,0 +1,14 @@
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\bin\Debug\net9.0-windows\WstecznaPropogacja.exe
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\bin\Debug\net9.0-windows\WstecznaPropogacja.deps.json
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\bin\Debug\net9.0-windows\WstecznaPropogacja.runtimeconfig.json
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\bin\Debug\net9.0-windows\WstecznaPropogacja.dll
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\bin\Debug\net9.0-windows\WstecznaPropogacja.pdb
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\obj\Debug\net9.0-windows\WstecznaPropogacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\obj\Debug\net9.0-windows\WstecznaPropogacja.AssemblyInfoInputs.cache
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\obj\Debug\net9.0-windows\WstecznaPropogacja.AssemblyInfo.cs
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\obj\Debug\net9.0-windows\WstecznaPropogacja.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\obj\Debug\net9.0-windows\WstecznaPropogacja.dll
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\obj\Debug\net9.0-windows\refint\WstecznaPropogacja.dll
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\obj\Debug\net9.0-windows\WstecznaPropogacja.pdb
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\obj\Debug\net9.0-windows\WstecznaPropogacja.genruntimeconfig.cache
+C:\Users\Kuba\RiderProjects\WstecznaPropogacja\WstecznaPropogacja\obj\Debug\net9.0-windows\ref\WstecznaPropogacja.dll
