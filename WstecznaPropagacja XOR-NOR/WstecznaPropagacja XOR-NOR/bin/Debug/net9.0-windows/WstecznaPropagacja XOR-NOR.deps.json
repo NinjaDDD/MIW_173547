@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "WstecznaPropagacja XOR-NOR/1.0.0": {
+        "runtime": {
+          "WstecznaPropagacja XOR-NOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WstecznaPropagacja XOR-NOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
